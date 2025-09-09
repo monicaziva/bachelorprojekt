@@ -3,7 +3,7 @@ using HiGHS
 
 #Define the weights and values of the data
 necklaceTypes = 5
-mct = 7.5*60
+mct = 7.5*60 #Machine times
 MachineTimes = [7 0 0 9 0; 5 7 11 0 5; 0 3 8 15 3]
 ast = 7.5*60*2
 ast1 = [12 3 11 9 6]
