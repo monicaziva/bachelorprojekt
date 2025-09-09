@@ -7,7 +7,7 @@ mct = 7.5*60 #Machine times
 MachineTimes = [7 0 0 9 0; 5 7 11 0 5; 0 3 8 15 3]
 ast = 7.5*60*2
 ast1 = [12 3 11 9 6]
-demand = [25 10 12 15 60]
+demand = [25 10 12 15 60] #demand
 
 profit = [50 45 85 60 55]
 
